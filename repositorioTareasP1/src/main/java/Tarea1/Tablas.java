@@ -1,4 +1,4 @@
-package Tarea2;
+package Tarea1;
 
 /**
  * @author Cristian Sanchez - 20211899 
