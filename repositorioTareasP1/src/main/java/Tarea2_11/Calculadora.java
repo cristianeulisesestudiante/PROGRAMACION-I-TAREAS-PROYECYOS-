@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Tarea2_1;
+package Tarea2_11;
 /**
 * @author Cristian Sanchez - 20211899 
 * Crear una clase Calculadora con los métodos: sumar, restar, multiplicar, dividir.
